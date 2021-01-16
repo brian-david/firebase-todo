@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-todo-5489b": {
+      "hosting": {
+        "firebase-todo": [
+          "fir-todo-5489b"
+        ]
+      }
+    }
+  }
+}
